@@ -54,7 +54,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-0af96d15a250.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-c72c54ce3681.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-0cd932b9d025.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-1cf8928a310a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-3af4dfda05c8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-fe0b8ccc90a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-86e9ba7bffb7.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-3f2a9e-fc88059edf41.js"></script>
@@ -80,7 +80,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="0C01:2BCF:EC81DB:1692A7F:641E06E1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="fac6f954f2feb39421972df625c6d85c4ec254035e0f70256e7621a6650332b3" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwQzAxOjJCQ0Y6RUM4MURCOjE2OTJBN0Y6NjQxRTA2RTEiLCJ2aXNpdG9yX2lkIjoiNjY3NTI0MjY2NTY1ODY4MTA1NyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="5013c05caf5194bb85d47ce3ee6095b334f3fffed99294cf7ae4801b4d726548" data-pjax-transient="true"/>
+  <meta name="request-id" content="3CC1:36F1:F70927:102D1C0:641E0A76" data-pjax-transient="true"/><meta name="html-safe-nonce" content="de98ac9df9b2b53b7062cbfbe4e1e21ce18c7f9cd066002bbe3a0777ba41e6ce" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzQ0MxOjM2RjE6RjcwOTI3OjEwMkQxQzA6NjQxRTBBNzYiLCJ2aXNpdG9yX2lkIjoiNTMxMDk3NTA3NjA3MDE5Nzg3OCIsInJlZ2lvbl9lZGdlIjoic2VhIiwicmVnaW9uX3JlbmRlciI6InNlYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="166ca6a1e1aaca3ebb8210a86ea3b0ae41456f548b343791e04f5a7dd4704b49" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:609550587" data-turbo-transient>
@@ -134,10 +134,10 @@
     <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,ACTIONS_SIGNALR_RECONNECT_JITTER">
 
 
-  <meta http-equiv="x-pjax-version" content="0954d13fe421caac5c52c5ae0c32e934f90e3bc8736a268c8c9f11bbc84d112b" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="24b7b45097fa725db87411d80bda3c55f9bc32f2a187bf3c492c6f811ba77cbb" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="2a84822a832da97f1ea76cf989a357ec70c85713a2fd8f14c8421b76bbffe38c" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="d63c5e293c03053caa5210551a7500c2653ef4453bc0584730af3dcd59c02677" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="305402600db73506343aa8deba637515d5d507e3f4eb271f1619542973f92081" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="47643df249f81a4dcc55810452c07a3c6332c8023aded1875568c9d6661c7a26" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -579,7 +579,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="GNR7nBlW1lYm1BsdoyGUrus8JDr/vQuvZ2IaCYlfdMh+xcSJTGcaq59FFkl2RMpFSHGpJ3oxpINr/lqmsU52Ew==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="NuhRESDy+v3mB+Dzf/jUnsZ6v+8D+nr7l+b7KFBwIBMzIMT+kDM+6zc5jxqCZ//pYcJAfW9vfEWZWJPm+DipGA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1064,7 +1064,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/brettjrea/GitHub_Generate_Readme/blob/53107dcfb57e0960782672f305a48eb3ce7f375b/bash/install-github-cli.sh">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/brettjrea/GitHub_Generate_Readme/blob/432e04775988cba545991c86d3ce4c0bd5272b74/bash/install-github-cli.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1285,7 +1285,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/brettjrea/GitHub_Generate_Readme/blob/53107dcfb57e0960782672f305a48eb3ce7f375b/bash/install-github-cli.sh" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/brettjrea/GitHub_Generate_Readme/blob/432e04775988cba545991c86d3ce4c0bd5272b74/bash/install-github-cli.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1313,7 +1313,7 @@
   
 </div></div>
 
-    <include-fragment src="/brettjrea/GitHub_Generate_Readme/spoofed_commit_check/53107dcfb57e0960782672f305a48eb3ce7f375b" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/brettjrea/GitHub_Generate_Readme/spoofed_commit_check/432e04775988cba545991c86d3ce4c0bd5272b74" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/brettjrea/GitHub_Generate_Readme/contributors/main/bash/install-github-cli.sh" class="commit-loader">
@@ -1355,14 +1355,14 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/raw/53107dcfb57e0960782672f305a48eb3ce7f375b/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/raw/main/bash/install-github-cli.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/blame/53107dcfb57e0960782672f305a48eb3ce7f375b/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/blame/main/bash/install-github-cli.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/raw/432e04775988cba545991c86d3ce4c0bd5272b74/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/raw/main/bash/install-github-cli.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/blame/432e04775988cba545991c86d3ce4c0bd5272b74/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/blame/main/bash/install-github-cli.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="N73JHv0OPYp24XNnx4Zc8Dkqbv9CyW09qK7P0pLtwvIKMpalPFyEaB-qB6RbryU4_R-7IKPWZV7dKPjv_RXuxg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nYE-lwbcIiYAKhdJ6Gz_JoBn0bOcPFZE9MBeF0-ra7Wfe0YHZ1YxARBudVvCYC9xGHp4XpmDYfPqr4j4BVhU1Q" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1372,7 +1372,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9pHQfEWz1D0jDKCo7ea1GP8rK2f0_A1onWedvPyd_pXLHo_HhOFt30pH1Gtxz8zQOx7-uBXjBQvo4aqBk2XSoQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7p8tMOR-lpZeEaoFTFemJEjNJD2PCuLNQ3s-ZzX3qG7sZVWghfSFsU5VyBdmW3Zz0NCN0Iq11XpdFOiIfwSXDg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1566,7 +1566,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/blame/53107dcfb57e0960782672f305a48eb3ce7f375b/bash/install-github-cli.sh">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/blame/432e04775988cba545991c86d3ce4c0bd5272b74/bash/install-github-cli.sh">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
