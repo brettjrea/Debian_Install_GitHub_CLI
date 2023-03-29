@@ -81,7 +81,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="2441:4965:148C5EF:1F5E82C:642397D3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="3e20377bc94be8956a1d65282bd1574cdb6a7f1b7d79d89b2c582d1621b1fca7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyNDQxOjQ5NjU6MTQ4QzVFRjoxRjVFODJDOjY0MjM5N0QzIiwidmlzaXRvcl9pZCI6Ijg1MTM5MDUyNDU4MTUwMTk0NzUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="9d4ab72041dcf3c70986aad72cc68d3e9f68af7a9fd691bcdaa8937c92925d18" data-pjax-transient="true"/>
+  <meta name="request-id" content="A809:0379:43F880:632845:642399E6" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d682fdad9040e92bbe9b108fe93bf43d9c10ddb63a432f51233c8db08d466d99" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBODA5OjAzNzk6NDNGODgwOjYzMjg0NTo2NDIzOTlFNiIsInZpc2l0b3JfaWQiOiIzNjY4NDg4NzM5MjI2ODg0NTgyIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="001b5cdfbeaa9ffc486517a1d34fb047f97f5d253eb74962caa1be0851f7a4a3" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:609550587" data-turbo-transient>
@@ -579,7 +579,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="6bfhdT8hozgXwQ7+cJ9BmNXF26JRk8aHyHHv6V1EoDgUBpyMut34m+OSXPgSaxNtHG7zk+vjAg5VOLPB+SAELw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="21+tkI64J7PFm8Ml9SXYrZqPn2gA4mXY5XeR1aR/zlxOEHOXuOhweZ/FbnAd4Q/pa03p80/ZPsp4z2KXVGzqJA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1064,7 +1064,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/brettjrea/GitHub_Generate_Readme/blob/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23/bash/install-github-cli.sh">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/brettjrea/GitHub_Generate_Readme/blob/8eca1121da24d31b970e3252d651e82f7b2466ef/bash/install-github-cli.sh">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1285,7 +1285,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/brettjrea/GitHub_Generate_Readme/blob/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23/bash/install-github-cli.sh" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/brettjrea/GitHub_Generate_Readme/blob/8eca1121da24d31b970e3252d651e82f7b2466ef/bash/install-github-cli.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1313,7 +1313,7 @@
   
 </div></div>
 
-    <include-fragment src="/brettjrea/GitHub_Generate_Readme/spoofed_commit_check/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/brettjrea/GitHub_Generate_Readme/spoofed_commit_check/8eca1121da24d31b970e3252d651e82f7b2466ef" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/brettjrea/GitHub_Generate_Readme/contributors/main/bash/install-github-cli.sh" class="commit-loader">
@@ -1355,14 +1355,14 @@
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/raw/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/raw/main/bash/install-github-cli.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/blame/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/blame/main/bash/install-github-cli.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/raw/8eca1121da24d31b970e3252d651e82f7b2466ef/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/raw/main/bash/install-github-cli.sh" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/brettjrea/GitHub_Generate_Readme/blame/8eca1121da24d31b970e3252d651e82f7b2466ef/bash/install-github-cli.sh" href="/brettjrea/GitHub_Generate_Readme/blame/main/bash/install-github-cli.sh" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YCGUTwb01p9B48uSFPZ-k34NEo-fOfW6CFnxQ6km5ScYzDDcg9WjNfgs_DovJIO3-xG99wz5LCuIFPWHBd0vQA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bmliKtLNlrnEoLE-gTBER3FKgn-FrIHxvhKpcd6XOX8jM27Jh9Mk_24wzIdlGjif4Gv_h4O95INRmiO-Id_ZgQ" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1372,7 +1372,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="it2Jfll-nuAndwUrRUZQsM0ciUSK27D420XhgvGCNaXyMC3t3F_rSp64MoN-lK2USAAmPBkbaWlbCOVGXXn_wg" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/brettjrea/GitHub_Generate_Readme/edit/main/bash/install-github-cli.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="b1YS1bXDokVeBCerkHCPKnDSeCrtRLeYc_zmsfli5tgiDB424N0QA_SUWhJ0WvPy4fMF0utV0uqcdGx-BioGJg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1566,7 +1566,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/blame/667ed8da9e70fe7c4e1bc077851bd21d62ea7b23/bash/install-github-cli.sh">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/blame/8eca1121da24d31b970e3252d651e82f7b2466ef/bash/install-github-cli.sh">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/brettjrea/GitHub_Generate_Readme/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
