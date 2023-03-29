@@ -81,7 +81,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="EC19:5374:146D7C5:1F2F267:64239B49" data-pjax-transient="true"/><meta name="html-safe-nonce" content="bac0ce07c4b7f2bc017871ef673e4bd9c431d72e2bcc6691bba8ad612f6ecc5a" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFQzE5OjUzNzQ6MTQ2RDdDNToxRjJGMjY3OjY0MjM5QjQ5IiwidmlzaXRvcl9pZCI6IjUwMjMwNTE4NzE2ODQ4OTM1MTMiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="39e88130a3af701144d2b980d55f89689e852a7d25c96e575f564447f9bc7fb1" data-pjax-transient="true"/>
+  <meta name="request-id" content="FC41:5374:146E779:1F309E3:64239B56" data-pjax-transient="true"/><meta name="html-safe-nonce" content="d116365fa1aa12fd0ebbcb55e12df2fa7de9465b51cebaea6267aa9cf65e34cf" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGQzQxOjUzNzQ6MTQ2RTc3OToxRjMwOUUzOjY0MjM5QjU2IiwidmlzaXRvcl9pZCI6IjgzOTA2MzQyNjg0NjYwNjAxMTgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="33509f0875622df80bc86dccd4d8892deafca1015fe8d37b883213e459b0b632" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:609550587" data-turbo-transient>
@@ -579,7 +579,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="OWu78Lqx45C7fZ4az7xO9ROUWz9KngQzlEW8ynM0XSZ1GM5pG5I7QWKZH4LDbwm9h+vlzknBm1i8BwwJVocUCA==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="U3nG1Bs/T8P3dyNwKzOHaf5k9BIpowmOWtJRRc4Pt3KlTuZZn9ORRqgOT95+dAsEqwsRena0EP4FY/FcPS8QlQ==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
